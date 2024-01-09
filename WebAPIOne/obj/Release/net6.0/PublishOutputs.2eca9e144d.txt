@@ -1,0 +1,11 @@
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.exe
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.dll
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.deps.json
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.runtimeconfig.json
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\WebAPIOne.pdb
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\OneDrive\SimpliLearn\Phase 3\Day 3\WebAPIOne\WebAPIOne\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
